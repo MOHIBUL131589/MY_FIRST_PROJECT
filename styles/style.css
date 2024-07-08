@@ -1,15 +1,26 @@
-h3{
+h3 {
     font-size: 30px;
     text-decoration: overline;
 }
 
-.Myblog{
+.Myblog {
     margin: 50px;
     border: 10px solid gray;
     box-shadow: 10px 10px 10px lightcyan;
 }
 
-.incident{
+.incident {
     border: 2px solid lightblue;
+
+
+}
+
+.incu {
+    background-image: url(/images/old\ granny.jpg);
+    height: 500px;
+    /* background-position-x:center; */
+    /* background-position-y: center; */
+    background-size: contain;
+    background-repeat: none;
 
 }
