@@ -1,5 +1,15 @@
-div{
-    background-color: aquamarine;
-    padding: 10px;
-    margin: 10px;
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+}
+
+.Myblog{
+    margin: 50px;
+    border: 10px solid gray;
+    box-shadow: 10px 10px 10px lightcyan;
+}
+
+.incident{
+    border: 2px solid lightblue;
+
 }
